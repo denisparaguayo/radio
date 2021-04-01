@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Vip Mix Online, en una Radio Online",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "images/logo-radio-VIPMIX.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "VIP MIX ONLINE",
+  "short_name": "VIP MIX",
+  "start_url": "/index.html"
+}
