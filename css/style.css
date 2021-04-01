@@ -80,15 +80,21 @@ transition: all 0.3s ease-out;
 .audio1 .mejs-controls a.mejs-horizontal-volume-slider{width: 0; overflow: hidden; opacity: 0;}
 .audio1 .mejs-controls .mejs-button button:focus{outline: none;}
 
-.audio1 .mejs-controls .mejs-cust1-button button{background: url(../images/btn-prev.png) center center no-repeat;}
+.audio1 .mejs-controls .mejs-cust1-button button{background: url(../images/btn-prev.png) center center no-repeat;
+display: none;}
 
 .audio1 .mejs-controls .mejs-playpause-button{}
-.audio1 .mejs-controls .mejs-play button{background: url(../images/btn-play.png) center center no-repeat;}
+.audio1 .mejs-controls .mejs-play button{background: url(../images/btn-play.png) center center no-repeat;
+
+}
 .audio1 .mejs-controls .mejs-play button:hover{}
-.audio1 .mejs-controls .mejs-pause button{background: url(../images/btn-pause.png) center center no-repeat;}
+.audio1 .mejs-controls .mejs-pause button{background: url(../images/btn-pause.png) center center no-repeat;
+
+}
 .audio1 .mejs-controls .mejs-pause button:hover{}
 
-.audio1 .mejs-controls .mejs-cust2-button button{background: url(../images/btn-next.png) center center no-repeat;}
+.audio1 .mejs-controls .mejs-cust2-button button{background: url(../images/btn-next.png) center center no-repeat;
+display: none;}
 
 .audio1 .mejs-container .mejs-controls .mejs-time{padding-top: 8px; margin-right: 20px;}
 
