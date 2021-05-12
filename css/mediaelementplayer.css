@@ -53,7 +53,6 @@
     .mejs-container-fullscreen video {
         width: 100%;
         height: 100%;
-        display: none;
     }
     
     .mejs-clear {
@@ -266,7 +265,6 @@
         direction: ltr;
         width: 200px;
         padding-top: 5px;
-        display: none;
     }
     
     .mejs-controls .mejs-time-rail span, .mejs-controls .mejs-time-rail a {
